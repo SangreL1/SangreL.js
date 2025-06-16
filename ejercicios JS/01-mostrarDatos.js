@@ -1,0 +1,1 @@
+document.writeln('Nombre: Lixander Dicent ', 'Edad: ', 18 );
