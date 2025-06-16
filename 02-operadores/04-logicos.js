@@ -12,7 +12,7 @@ let subscrito = true;
 
 console.log( 'operador and', mayor && subscrito);
 
-// AND en JS se hace así || con dos barras estrechas.
+// OR en JS se hace así || con dos barras estrechas.
 
 console.log( 'operador or', mayor || subscrito); // Esto devolverá true si uno de los dos es true
 // ... osea que si mayor es false y subscrito es true, devolverá true

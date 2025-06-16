@@ -32,6 +32,7 @@ if (num1 = '10'){
 
 // Otro ejemplo
 
+
 let num2 = 10;
 
 if (num2 === '10'){
